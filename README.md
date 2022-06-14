@@ -14,7 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Create a new public repository on your github account
 2. Add the new repo as a remote `git remote add origin <url-of-your-repo>`
-3. Push `git push -u origin main`
+3. Set the branch to main `git branch -M main`
+4. Push `git push -u origin main`
 
 ## Available Scripts
 
