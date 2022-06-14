@@ -6,8 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Create a new directory for your project `mkdir <name-of-your-project>`
 2. Change to that directory `cd <name-of-your-project>`
-3. Pull this template into your project `git pull https://github.com/ls-jacob-lawrence/fe-interview-template.git`
-4. `yarn` or `npm` to install dependencies
+3. Initialise a git repository `git init`
+4. Pull this template into your project `git pull https://github.com/ls-jacob-lawrence/fe-interview-template.git`
+5. `yarn` or `npm` to install dependencies
 
 ## Finishing your project
 
