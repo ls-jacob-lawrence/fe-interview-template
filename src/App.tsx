@@ -1,26 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import styled from 'styled-components';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const Container = styled.section`
+    font-family: sans-serif;
+`;
+
+export default function App() {
+    return (
+        <Container>
+            <h1>Hello Lightspeed</h1>
+            <ol>
+                <li>Fork this repository</li>
+                <li>Clone your fork and run it locally</li>
+                <li>Make changes, commit your work and push to your fork</li>
+            </ol>
+        </Container>
+    );
 }
-
-export default App;
