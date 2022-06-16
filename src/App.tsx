@@ -12,7 +12,7 @@ export default function App() {
         <Container>
             <Text size="large">Hello Lightspeed</Text>
             <Button onClick={() => alert('You clicked the button')}>
-                Button
+                Example Button
             </Button>
         </Container>
     );
