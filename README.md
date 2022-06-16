@@ -2,25 +2,20 @@
 
 ## Setting up this template
 
-1. Create a new directory for your project `mkdir <name-of-your-project>`
-2. Change to that directory `cd <name-of-your-project>`
-3. Initialise a git repository `git init`
-4. Pull this template into your project `git pull https://github.com/ls-jacob-lawrence/fe-interview-template.git`
-5. `yarn` or `npm` to install dependencies
+1. Select "Use this template" via the Github UI and follow the wizard.
+2. Clone your new repository to your machine.
+5. Run `yarn` or `npm` to install dependencies (use either, but we use yarn).
 
 
 ## Working on your project
-### `yarn start`
+### `yarn start` or `npm start`
 
 Runs the app in the development mode.
 
-### `yarn test`
+### `yarn test` or `npm test`
 
 Launches the test runner in the interactive watch mode.
 
 ## Finishing your project
 
-1. Create a new public repository on your github account
-2. Add the new repo as a remote `git remote add origin <url-of-your-repo>`
-3. Set the branch to main `git branch -M main`
-4. Push `git push -u origin main`
+1. Push your work to your repository.
