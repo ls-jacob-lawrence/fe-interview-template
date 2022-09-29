@@ -1498,10 +1498,10 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@ls-jacob-lawrence/fe-interview-ds@^1":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@ls-jacob-lawrence/fe-interview-ds/1.0.0/48d8dbaedd2304031f1ed3f996232815df4d1417ce44016026d58550a60d1857#bf532cd3493ffbd4df36d340d8a6dd8fd871c734"
-  integrity sha512-ERQWirLYnbZwRUlenihuPvBEFQpw88sd9YOcdfhjTsFg0ACyScYXweK3V76rEqPhsY/2B/NDIi25rayGRYmytw==
+"@ls-jacob-lawrence/fe-interview-ds@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@ls-jacob-lawrence/fe-interview-ds/-/fe-interview-ds-1.1.0.tgz#713c7168d313508d513e890ea271be730a635976"
+  integrity sha512-re7zBmY4TxcC8WaX7AHWzO0FTnN/knu8fjS7fcvppFFPgioYuTLd66rJ8PBHrME5BwmD9Z2cjZ+8zSrDAwL8zQ==
   dependencies:
     "@stitches/react" "^1.2.8"
 
